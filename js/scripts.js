@@ -1,6 +1,5 @@
 
 
-
 window.onload
 
 function openMenu() {
@@ -30,4 +29,5 @@ function toggleMenu(){
 //        x.classList.toggle('responsive');
 //   }
 // }
+
 
